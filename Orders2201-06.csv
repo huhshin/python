@@ -1,0 +1,196 @@
+﻿OrderID,CustomerID,EmployeeID,OrderDate,ShippedDate,Sales,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10400,EASTC,1,2022-01-01,2022-01-16,83.93,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10401,RATTC,1,2022-01-01,2022-01-10,12.51,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10402,ERNSH,8,2022-01-02,2022-01-10,67.88,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10403,ERNSH,4,2022-01-03,2022-01-09,73.79,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10404,MAGAA,2,2022-01-03,2022-01-08,155.97,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10405,LINOD,1,2022-01-06,2022-01-22,34.82,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10406,QUEEN,7,2022-01-07,2022-01-13,108.04,Queen Cozinha,"Alameda dos Canàrios, 891",São Paulo,SP,05487-020,Brazil
+10407,OTTIK,2,2022-01-07,2022-01-30,91.48,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany
+10408,FOLIG,8,2022-01-08,2022-01-14,11.26,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,France
+10409,OCEAN,3,2022-01-09,2022-01-14,29.83,Océano Atlántico Ltda.,"Ing. Gustavo Moncada 8585
+Piso 20-A",Buenos Aires,,1010,Argentina
+10410,BOTTM,3,2022-01-10,2022-01-15,2.40,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10411,BOTTM,9,2022-01-10,2022-01-21,23.65,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10412,WARTH,8,2022-01-13,2022-01-15,3.77,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10413,LAMAI,3,2022-01-14,2022-01-16,95.66,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10414,FAMIA,2,2022-01-14,2022-01-17,21.48,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442-030,Brazil
+10415,HUNGC,3,2022-01-15,2022-01-24,0.20,Hungry Coyote Import Store,"City Center Plaza
+516 Main St.",Elgin,OR,97827,USA
+10416,WARTH,8,2022-01-16,2022-01-27,22.72,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10417,SIMOB,4,2022-01-16,2022-01-28,70.29,Simons bistro,Vinbæltet 34,København,,1734,Denmark
+10418,QUICK,4,2022-01-17,2022-01-24,17.55,QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10419,RICSU,4,2022-01-20,2022-01-30,137.35,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland
+10420,WELLI,3,2022-01-21,2022-01-27,44.12,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil
+10421,QUEDE,8,2022-01-21,2022-01-27,99.23,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil
+10422,FRANS,2,2022-01-22,2022-01-31,3.02,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+10423,GOURL,6,2022-01-23,2022-02-24,24.50,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil
+10424,MEREP,7,2022-01-23,2022-01-27,370.61,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada
+10425,LAMAI,6,2022-01-24,2022-02-14,7.93,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10426,GALED,4,2022-01-27,2022-02-06,18.69,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain
+10427,PICCO,4,2022-01-27,2022-03-03,31.29,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10428,REGGC,7,2022-01-28,2022-02-04,11.09,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10429,HUNGO,3,2022-01-29,2022-02-07,56.63,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10430,ERNSH,4,2022-01-30,2022-02-03,458.78,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10431,BOTTM,4,2022-01-30,2022-02-07,44.17,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10432,SPLIR,3,2022-01-31,2022-02-07,4.34,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10433,PRINI,3,2022-02-03,2022-03-04,73.83,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal
+10434,FOLKO,3,2022-02-03,2022-02-13,17.92,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden
+10435,CONSH,8,2022-02-04,2022-02-07,9.21,Consolidated Holdings,"Berkeley Gardens
+12  Brewery",London,,WX1 6LT,UK
+10436,BLONP,3,2022-02-05,2022-02-11,156.66,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,France
+10437,WARTH,8,2022-02-05,2022-02-12,19.97,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10438,TOMSP,3,2022-02-06,2022-02-14,8.24,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany
+10439,MEREP,6,2022-02-07,2022-02-10,4.07,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada
+10440,SAVEA,4,2022-02-10,2022-02-28,86.53,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10441,OLDWO,3,2022-02-10,2022-03-14,73.02,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10442,ERNSH,3,2022-02-11,2022-02-18,47.94,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10443,REGGC,8,2022-02-12,2022-02-14,13.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10444,BERGS,3,2022-02-12,2022-02-21,3.50,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden
+10445,BERGS,3,2022-02-13,2022-02-20,9.30,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden
+10446,TOMSP,6,2022-02-14,2022-02-19,14.68,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany
+10447,RICAR,4,2022-02-14,2022-03-07,68.66,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil
+10448,RANCH,4,2022-02-17,2022-02-24,38.82,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+10449,BLONP,3,2022-02-18,2022-02-27,53.30,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,France
+10450,VICTE,8,2022-02-19,2022-03-11,7.23,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France
+10451,QUICK,4,2022-02-19,2022-03-12,189.09,QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10452,SAVEA,8,2022-02-20,2022-02-26,140.26,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10453,AROUT,1,2022-02-21,2022-02-26,25.36,Around the Horn,"Brook Farm
+Stratford St. Mary",Colchester,Essex,CO7 6JX,UK
+10454,LAMAI,4,2022-02-21,2022-02-25,2.74,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10455,WARTH,8,2022-02-24,2022-03-03,180.45,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10456,KOENE,8,2022-02-25,2022-02-28,8.12,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10457,KOENE,2,2022-02-25,2022-03-03,11.57,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10458,SUPRD,7,2022-02-26,2022-03-04,147.06,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium
+10459,VICTE,4,2022-02-27,2022-02-28,25.09,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France
+10460,FOLKO,8,2022-02-28,2022-03-03,16.27,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden
+10461,LILAS,1,2022-02-28,2022-03-05,148.61,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10462,CONSH,2,2022-03-03,2022-03-18,6.17,Consolidated Holdings,"Berkeley Gardens
+12  Brewery",London,,WX1 6LT,UK
+10463,SUPRD,5,2022-03-04,2022-03-06,14.78,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium
+10464,FURIB,4,2022-03-04,2022-03-14,89.00,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10465,VAFFE,1,2022-03-05,2022-03-14,145.04,Vaffeljernet,Smagsløget 45,Århus,,8200,Denmark
+10466,COMMI,4,2022-03-06,2022-03-13,11.93,Comércio Mineiro,"Av. dos Lusíadas, 23",São Paulo,SP,05432-043,Brazil
+10467,MAGAA,8,2022-03-06,2022-03-11,4.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10468,KOENE,3,2022-03-07,2022-03-12,44.12,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10469,WHITC,1,2022-03-10,2022-03-14,60.18,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10470,BONAP,4,2022-03-11,2022-03-14,64.56,Bon app',"12, rue des Bouchers",Marseille,,13008,France
+10471,BSBEV,2,2022-03-11,2022-03-18,45.59,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10472,SEVES,8,2022-03-12,2022-03-19,4.20,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10473,ISLAT,1,2022-03-13,2022-03-21,16.37,Island Trading,"Garden House
+Crowther Way",Cowes,Isle of Wight,PO31 7PJ,UK
+10474,PERIC,5,2022-03-13,2022-03-21,83.49,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,05033,Mexico
+10475,SUPRD,9,2022-03-14,2022-04-04,68.52,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium
+10476,HILAA,8,2022-03-17,2022-03-24,4.41,HILARIÓN-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela
+10477,PRINI,5,2022-03-17,2022-03-25,13.02,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal
+10478,VICTE,2,2022-03-18,2022-03-26,4.81,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France
+10479,RATTC,3,2022-03-19,2022-03-21,708.95,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10480,FOLIG,6,2022-03-20,2022-03-24,1.35,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,France
+10481,RICAR,8,2022-03-20,2022-03-25,64.33,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil
+10482,LAZYK,1,2022-03-21,2022-04-10,7.48,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10483,WHITC,7,2022-03-24,2022-04-25,15.28,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10484,BSBEV,3,2022-03-24,2022-04-01,6.88,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10485,LINOD,4,2022-03-25,2022-03-31,64.45,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10486,HILAA,1,2022-03-26,2022-04-02,30.53,HILARIÓN-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela
+10487,QUEEN,2,2022-03-26,2022-03-28,71.07,Queen Cozinha,"Alameda dos Canàrios, 891",São Paulo,SP,05487-020,Brazil
+10488,FRANK,8,2022-03-27,2022-04-02,4.93,Frankenversand,Berliner Platz 43,München,,80805,Germany
+10489,PICCO,6,2022-03-28,2022-04-09,5.29,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10490,HILAA,7,2022-03-31,2022-04-03,210.19,HILARIÓN-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela
+10491,FURIB,8,2022-03-31,2022-04-08,16.96,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10492,BOTTM,3,2022-04-01,2022-04-11,62.89,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10493,LAMAI,4,2022-04-02,2022-04-10,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10494,COMMI,4,2022-04-02,2022-04-09,65.99,Comércio Mineiro,"Av. dos Lusíadas, 23",São Paulo,SP,05432-043,Brazil
+10495,LAUGB,3,2022-04-03,2022-04-11,4.65,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10496,TRADH,7,2022-04-04,2022-04-07,46.77,Tradição Hipermercados,"Av. Inês de Castro, 414",São Paulo,SP,05634-030,Brazil
+10497,LEHMS,7,2022-04-04,2022-04-07,36.21,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10498,HILAA,8,2022-04-07,2022-04-11,29.75,HILARIÓN-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela
+10499,LILAS,4,2022-04-08,2022-04-16,102.02,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10500,LAMAI,6,2022-04-09,2022-04-17,42.68,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10501,BLAUS,9,2022-04-09,2022-04-16,8.85,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10502,PERIC,2,2022-04-10,2022-04-29,69.32,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,05033,Mexico
+10503,HUNGO,6,2022-04-11,2022-04-16,16.74,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10504,WHITC,4,2022-04-11,2022-04-18,59.13,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10505,MEREP,3,2022-04-14,2022-04-21,7.13,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada
+10506,KOENE,9,2022-04-15,2022-05-02,21.19,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10507,ANTON,7,2022-04-15,2022-04-22,47.45,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,05023,Mexico
+10508,OTTIK,1,2022-04-16,2022-05-13,4.99,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany
+10509,BLAUS,4,2022-04-17,2022-04-29,0.15,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10510,SAVEA,6,2022-04-18,2022-04-28,367.63,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10511,BONAP,4,2022-04-18,2022-04-21,350.64,Bon app',"12, rue des Bouchers",Marseille,,13008,France
+10512,FAMIA,7,2022-04-21,2022-04-24,3.53,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442-030,Brazil
+10513,WANDK,7,2022-04-22,2022-04-28,105.65,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10514,ERNSH,3,2022-04-22,2022-05-16,789.95,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10515,QUICK,2,2022-04-23,2022-05-23,204.47,QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10516,HUNGO,2,2022-04-24,2022-05-01,62.78,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10517,NORTS,3,2022-04-24,2022-04-29,32.07,North/South,"South House
+300 Queensbridge",London,,SW7 1RZ,UK
+10518,TORTU,4,2022-04-25,2022-05-05,218.15,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico
+10519,CHOPS,6,2022-04-28,2022-05-01,91.76,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10520,SANTG,7,2022-04-29,2022-05-01,13.37,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10521,CACTU,8,2022-04-29,2022-05-02,17.22,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10522,LEHMS,4,2022-04-30,2022-05-06,45.33,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10523,SEVES,7,2022-05-01,2022-05-30,77.63,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10524,BERGS,1,2022-05-01,2022-05-07,244.79,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden
+10525,BONAP,1,2022-05-02,2022-05-23,11.06,Bon app',"12, rue des Bouchers",Marseille,,13008,France
+10526,WARTH,4,2022-05-05,2022-05-15,58.59,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10527,QUICK,7,2022-05-05,2022-05-07,41.90,QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10528,GREAL,6,2022-05-06,2022-05-09,3.35,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10529,MAISD,5,2022-05-07,2022-05-09,66.69,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10530,PICCO,3,2022-05-08,2022-05-12,339.22,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10531,OCEAN,7,2022-05-08,2022-05-19,8.12,Océano Atlántico Ltda.,"Ing. Gustavo Moncada 8585
+Piso 20-A",Buenos Aires,,1010,Argentina
+10532,EASTC,7,2022-05-09,2022-05-12,74.46,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10533,FOLKO,8,2022-05-12,2022-05-22,188.04,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden
+10534,LEHMS,8,2022-05-12,2022-05-14,27.94,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10535,ANTON,4,2022-05-13,2022-05-21,15.64,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,05023,Mexico
+10536,LEHMS,3,2022-05-14,2022-06-06,58.88,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10537,RICSU,1,2022-05-14,2022-05-19,78.85,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland
+10538,BSBEV,9,2022-05-15,2022-05-16,4.87,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10539,BSBEV,6,2022-05-16,2022-05-23,12.36,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10540,QUICK,3,2022-05-19,2022-06-13,"1,007.64",QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10541,HANAR,2,2022-05-19,2022-05-29,68.65,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil
+10542,KOENE,1,2022-05-20,2022-05-26,10.95,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10543,LILAS,8,2022-05-21,2022-05-23,48.17,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10544,LONEP,4,2022-05-21,2022-05-30,24.91,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10545,LAZYK,8,2022-05-22,2022-06-26,11.92,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10546,VICTE,1,2022-05-23,2022-05-27,194.72,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France
+10547,SEVES,3,2022-05-23,2022-06-02,178.43,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10548,TOMSP,3,2022-05-26,2022-06-02,1.43,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany
+10549,QUICK,5,2022-05-27,2022-05-30,171.24,QUICK-Stop,Taucherstraße 10,Cunewalde,,01307,Germany
+10550,GODOS,7,2022-05-28,2022-06-06,4.32,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain
+10551,FURIB,4,2022-05-28,2022-06-06,72.95,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10552,HILAA,2,2022-05-29,2022-06-05,83.22,HILARIÓN-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela
+10553,WARTH,2,2022-05-30,2022-06-03,149.49,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10554,OTTIK,4,2022-05-30,2022-06-05,120.97,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany
+10555,SAVEA,6,2022-06-02,2022-06-04,252.49,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10556,SIMOB,2,2022-06-03,2022-06-13,9.80,Simons bistro,Vinbæltet 34,København,,1734,Denmark
+10557,LEHMS,9,2022-06-03,2022-06-06,96.72,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10558,AROUT,1,2022-06-04,2022-06-10,72.97,Around the Horn,"Brook Farm
+Stratford St. Mary",Colchester,Essex,CO7 6JX,UK
+10559,BLONP,6,2022-06-05,2022-06-13,8.05,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,France
+10560,FRANK,8,2022-06-06,2022-06-09,36.65,Frankenversand,Berliner Platz 43,München,,80805,Germany
+10561,FOLKO,2,2022-06-06,2022-06-09,242.21,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden
+10562,REGGC,1,2022-06-09,2022-06-12,22.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10563,RICAR,2,2022-06-10,2022-06-24,60.43,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil
+10564,RATTC,4,2022-06-10,2022-06-16,13.75,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10565,MEREP,8,2022-06-11,2022-06-18,7.15,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada
+10566,BLONP,9,2022-06-12,2022-06-18,88.40,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,France
+10567,HUNGO,1,2022-06-12,2022-06-17,33.97,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10568,GALED,3,2022-06-13,2022-07-09,6.54,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain
+10569,RATTC,5,2022-06-16,2022-07-11,58.98,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10570,MEREP,3,2022-06-17,2022-06-19,188.99,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada
+10571,ERNSH,8,2022-06-17,2022-07-04,26.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10572,BERGS,3,2022-06-18,2022-06-25,116.43,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden
+10573,ANTON,7,2022-06-19,2022-06-20,84.84,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,05023,Mexico
+10574,TRAIH,4,2022-06-19,2022-06-30,37.60,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10575,MORGK,5,2022-06-20,2022-06-30,127.34,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany
+10576,TORTU,3,2022-06-23,2022-06-30,18.56,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico
+10577,TRAIH,9,2022-06-23,2022-06-30,25.41,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10578,BSBEV,4,2022-06-24,2022-07-25,29.60,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10579,LETSS,1,2022-06-25,2022-07-04,13.73,Let's Stop N Shop,"87 Polk St.
+Suite 5",San Francisco,CA,94117,USA
+10580,OTTIK,4,2022-06-26,2022-07-01,75.89,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany
+10581,FAMIA,3,2022-06-26,2022-07-02,3.01,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442-030,Brazil
+10582,BLAUS,3,2022-06-27,2022-07-14,27.71,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10583,WARTH,2,2022-06-30,2022-07-04,7.28,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10584,BLONP,4,2022-06-30,2022-07-04,59.14,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,France
